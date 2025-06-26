@@ -1,0 +1,12 @@
+[
+    {"front":"How do you list files in the current directory?","back":"ls"},
+    {"front":"How do you display the current working directory?","back":"pwd"},
+    {"front":"How do you change to the parent directory?","back":"cd .."},
+    {"front":"How do you create a new directory called \"test\"?","back":"mkdir test"},
+    {"front":"How do you copy a file named \"file1.txt\" to \"file2.txt\"?","back":"cp file1.txt file2.txt"},
+    {"front":"How do you move a file called \"a.txt\" to the \"docs\" directory?","back":"mv a.txt docs/"},
+    {"front":"How do you delete a file named \"old.log\"?","back":"rm old.log"},
+    {"front":"How do you view the contents of a file called \"notes.txt\"?","back":"cat notes.txt"},
+    {"front":"How do you find all \".py\" files in the current directory?","back":"find . -name \"*.py\""},
+    {"front":"How do you search for \"error\" in a file named \"log.txt\"?","back":"grep error log.txt"}
+]
