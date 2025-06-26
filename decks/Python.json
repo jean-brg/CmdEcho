@@ -1,0 +1,12 @@
+[
+    {"front": "How do you print 'Hello, World!' in Python?", "back": "print('Hello, World!')"},
+    {"front": "How do you assign the number 5 to a variable called 'x'?", "back": "x = 5"},
+    {"front": "How do you write a for loop that prints numbers 0 to 4?", "back": "for i in range(5): print(i)"},
+    {"front": "How do you define a function called 'add' that takes two parameters and returns their sum?", "back": "def add(a, b): return a + b"},
+    {"front": "How do you import the 'math' module?", "back": "import math"},
+    {"front": "How do you check if a variable 'x' is equal to 10?", "back": "if x == 10:"},
+    {"front": "How do you create a list called 'fruits' with 'apple', 'banana', and 'cherry'?", "back": "fruits = ['apple', 'banana', 'cherry']"},
+    {"front": "How do you get the length of a list 'fruits'?", "back": "len(fruits)"},
+    {"front": "How do you handle an exception in Python?", "back": "try: ... except Exception as e: ..."},
+    {"front": "How do you open a file called 'data.txt' for reading?", "back": "with open('data.txt', 'r') as f:"}
+]

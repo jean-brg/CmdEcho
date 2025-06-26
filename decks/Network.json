@@ -1,0 +1,12 @@
+[
+    {"front": "How do you scan a host with Nmap to check if it's online?", "back": "nmap -sn 192.168.1.1"},
+    {"front": "How do you detect the operating system of a host using Nmap?", "back": "nmap -O 192.168.1.1"},
+    {"front": "How do you scan all TCP ports on a host using Nmap?", "back": "nmap -p- 192.168.1.1"},
+    {"front": "How do you list the ARP table on your machine?", "back": "arp -a"},
+    {"front": "How do you view current network connections and listening ports?", "back": "netstat -tuln"},
+    {"front": "How do you scan a specific port (e.g. 80) on a host using Nmap?", "back": "nmap -p 80 192.168.1.1"},
+    {"front": "How do you perform a service/version detection scan with Nmap?", "back": "nmap -sV 192.168.1.1"},
+    {"front": "How do you display your IP address on Linux?", "back": "ip a"},
+    {"front": "How do you perform a traceroute to a host to see network path?", "back": "traceroute 192.168.1.1"},
+    {"front": "How do you view the routing table in Linux?", "back": "route -n"}
+]
