@@ -8,5 +8,12 @@
     {"front":"How do you delete a file named \"old.log\"?","back":"rm old.log"},
     {"front":"How do you view the contents of a file called \"notes.txt\"?","back":"cat notes.txt"},
     {"front":"How do you find all \".py\" files in the current directory?","back":"find . -name \"*.py\""},
-    {"front":"How do you search for \"error\" in a file named \"log.txt\"?","back":"grep error log.txt"}
+    {"front":"How do you search for \"error\" in a file named \"log.txt\"?","back":"grep error log.txt"},
+    {"front":"How do you view the manual page for the \"ls\" command?","back":"man ls"},
+    {"front":"How do you connect to a remote server at 192.168.1.10 with the username \"user\"?","back":"ssh user@192.168.1.10"},
+    {"front":"How do you run \"cmd1\" only if it succeeds, then run \"cmd2\"?","back":"cmd1 && cmd2"},
+    {"front":"How do you run \"cmd1\" and then \"cmd2\" only if \"cmd1\" fails?","back":"cmd1 || cmd2"},
+    {"front":"How do you run \"cmd1\" followed by \"cmd2\" regardless of success?","back":"cmd1 ; cmd2"},
+    {"front":"How do you zip a file named \"project.txt\" into \"project.zip\"?","back":"zip project.zip project.txt"},
+    {"front":"How do you zip an entire directory named \"myfolder\" into \"myfolder.zip\"?","back":"zip -r myfolder.zip myfolder"}
 ]
