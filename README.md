@@ -58,7 +58,10 @@ Example:
 ]
 ```
 
----
+## For Contributors
+If you have suggestions to improve this project, feel free to open an issue or a pull request.
+If you'd like to create your own deck and add it to the list, you are more than welcome to fork the project and submit a pull request with your new deck.
+(Please just make sure to fact-check your deck before submitting. Thank you!)
+
 
 Thank you for using CmdEcho!  
-If you have suggestions or want to contribute a new deck, feel free to open an issue or pull request.
